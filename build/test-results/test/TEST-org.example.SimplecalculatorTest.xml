@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.SimplecalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-08T17:28:21" hostname="iMac-de-orange-3.local" time="0.004">
+  <properties/>
+  <testcase name="testsoustraction()" classname="org.example.SimplecalculatorTest" time="0.0"/>
+  <testcase name="testmultiplication()" classname="org.example.SimplecalculatorTest" time="0.0"/>
+  <testcase name="testfonctionnaliteisEven()" classname="org.example.SimplecalculatorTest" time="0.001"/>
+  <testcase name="test_if_calculated_add_is_working()" classname="org.example.SimplecalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

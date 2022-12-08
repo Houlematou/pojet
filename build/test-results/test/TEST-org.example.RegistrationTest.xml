@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.example.RegistrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-08T12:52:44" hostname="iMac-de-orange-3.local" time="0.014">
+<testsuite name="org.example.RegistrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-08T17:28:21" hostname="iMac-de-orange-3.local" time="0.015">
   <properties/>
-  <testcase name="testIfValidateUserWork()" classname="org.example.RegistrationTest" time="0.014"/>
+  <testcase name="testIfValidateUserWork()" classname="org.example.RegistrationTest" time="0.015"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
